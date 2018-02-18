@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4Lib", "PS4Lib\PS4Lib.csproj", "{FF089EFD-A8D5-4BEC-849E-CAFA901CC191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{4E9777CB-1A84-41F6-ACB0-62EE5C9744AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF089EFD-A8D5-4BEC-849E-CAFA901CC191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF089EFD-A8D5-4BEC-849E-CAFA901CC191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF089EFD-A8D5-4BEC-849E-CAFA901CC191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF089EFD-A8D5-4BEC-849E-CAFA901CC191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9777CB-1A84-41F6-ACB0-62EE5C9744AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9777CB-1A84-41F6-ACB0-62EE5C9744AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9777CB-1A84-41F6-ACB0-62EE5C9744AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9777CB-1A84-41F6-ACB0-62EE5C9744AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8338CDDC-C3E5-47C4-9379-38272F82FBD9}
+	EndGlobalSection
+EndGlobal
